@@ -1,4 +1,4 @@
-package com.udemy.rest.webservices.restfulwebservices;
+package com.udemy.rest.webservices.restfulwebservices.helloWorld;
 
 public class HelloWorldBean {
     private String message;
